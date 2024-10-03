@@ -7,7 +7,7 @@ session_start()
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link
       rel="stylesheet"
@@ -72,97 +72,98 @@ session_start()
    <!-- manga -->
    
       <div class="manga-list">
-       <a href="./manga.php">
+       <a href="./manga1.php">
           <div class="manga">
-            <img src="./assets/1.png" />
+            <img src="./assets/One Piece.jpg" class="" />
             <div class="layer">
-             <h3>Lorem, ipsum dolor.</h3>
+             <h3>One Piece</h3>
              <p>
-             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia facere corporis odio neque eligendi adipisci.
+             Gol D. Roger, a man referred to as the King of the Pirates, is set to be executed by the World Government. But just before his demise, he confirms the existence of a great treasure, One Piece, located somewhere within the vast ocean known as the Grand Line. Announcing that One Piece can be claimed by anyone worthy enough to reach it, the King of the Pirates is executed and the Great Age of Pirates begins.
              </p>
             
             </div>
           </div>
        </a>
-       <a href="./manga.php">
+       <a href="./manga2.php">
           <div class="manga">
-            <img src="./assets/1.png" />
+            <img src="./assets/Dragon Ball.jpg" />
             <div class="layer">
-             <h3>Lorem, ipsum dolor.</h3>
+             <h3>Dragon Ball</h3>
              <p>
-             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia facere corporis odio neque eligendi adipisci.
+             Having defeated Boo, Goku is starting to get bored with his life on Earth. His wife, Chi-chi, wants him to get a job, but all he wants to do is train and fight stronger enemies. Elsewhere in the universe, the God of Destruction, Beerus, and his attendant Whis are traveling from planet to planet in search of food and entertainment. After blowing up some hapless victims, Beerus is reminded of a man from his dreams with the moniker "Super Saiyan God," or something like that... The God of Destruction sets his sights on Earth to track down this mysterious man! Maybe this will give Goku something to do?
              </p>
             
             </div>
           </div>
        </a>
-       <a href="./manga.php">
+       <a href="./manga3.php">
           <div class="manga">
-            <img src="./assets/1.png" />
+            <img src="./assets/Naruto T70.jpg" />
             <div class="layer">
-             <h3>Lorem, ipsum dolor.</h3>
+             <h3>Naruto</h3>
              <p>
-             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia facere corporis odio neque eligendi adipisci.
+             And so when he is assigned to Team 7—along with his new teammates Sasuke Uchiha and Sakura Haruno, under the mentorship of veteran ninja Kakashi Hatake—Naruto is forced to work together with other people for the first time in his life. Through undergoing vigorous training and taking on challenging missions, Naruto must learn what it means to work in a team and carve his own route toward becoming a full-fledged ninja recognized by his village.
              </p>
             
             </div>
           </div>
        </a>
-       <a href="./manga.php">
+       <a href="./manga4.php">
           <div class="manga">
-            <img src="./assets/1.png" />
+            <img src="./assets/Slam Dunk.jpg" />
             <div class="layer">
-             <h3>Lorem, ipsum dolor.</h3>
+             <h3>Slam Dunk</h3>
              <p>
-             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia facere corporis odio neque eligendi adipisci.
+             Hanamichi Sakuragi, a tall, boisterous teenager with flame-red hair and physical strength beyond his years, is eager to put an end to his rejection streak of 50 and finally score a girlfriend as he begins his first year of Shohoku High. However, his reputation for delinquency and destructiveness precedes him, and most of his fellow students subsequently avoid him like the plague. As his first day of school ends, he is left with two strong thoughts: "I hate basketball" and "I need a girlfriend."
              </p>
             
             </div>
           </div>
        </a>
-       <a href="./manga.php">
+       <a href="./manga5.php">
           <div class="manga">
-            <img src="./assets/1.png" />
+            <img src="./assets/Attack on titan.jpg" />
             <div class="layer">
-             <h3>Lorem, ipsum dolor.</h3>
+             <h3>Attack on Titan</h3>
              <p>
-             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia facere corporis odio neque eligendi adipisci.
+             Hundreds of years ago, horrifying creatures which resembled humans appeared. These mindless, towering giants, called Titans, proved to be an existential threat, as they preyed on whatever humans they could find in order to satisfy a seemingly unending appetite. Unable to effectively combat the Titans, mankind was forced to barricade themselves within large walls surrounding what may very well be humanity's last safe haven in the world.
              </p>
             
             </div>
           </div>
        </a>
-       <a href="./manga.php">
+       <a href="./manga6.php">
           <div class="manga">
-            <img src="./assets/1.png" />
+            <img src="./assets/Chainsaw Man.jpg" />
             <div class="layer">
-             <h3>Lorem, ipsum dolor.</h3>
+             <h3>Chainsaw Man</h3>
              <p>
-             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia facere corporis odio neque eligendi adipisci.
+             Denji has a simple dream—to live a happy and peaceful life, spending time with a girl he likes. This is a far cry from reality, however, as Denji is forced by the yakuza into killing devils in order to pay off his crushing debts. Using his pet devil Pochita as a weapon, he is ready to do anything for a bit of cash.
              </p>
             
             </div>
           </div>
        </a>
-       <a href="./manga.php">
+       <a href="./manga7.php">
           <div class="manga">
-            <img src="./assets/1.png" />
+            <img src="./assets/Berserk.jpg" />
             <div class="layer">
-             <h3>Lorem, ipsum dolor.</h3>
+             <h3>Berserk</h3>
              <p>
-             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia facere corporis odio neque eligendi adipisci.
+             Guts, a former mercenary now known as the Black Swordsman, is out for revenge. After a tumultuous childhood, he finally finds someone he respects and believes he can trust, only to have everything fall apart when this person takes away everything important to Guts for the purpose of fulfilling his own desires. Now marked for death, Guts becomes condemned to a fate in which he is relentlessly pursued by demonic beings.
              </p>
             
             </div>
           </div>
        </a>
-       <a href="./manga.php">
+       <a href="./manga8.php">
           <div class="manga">
-            <img src="./assets/1.png" />
+            <img src="./assets/Hunter X Hunter.jpg" />
             <div class="layer">
-             <h3>Lorem, ipsum dolor.</h3>
+             <h3>Hunter X Hunter</h3>
              <p>
-             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia facere corporis odio neque eligendi adipisci.
+             Gon Freecss wants to become a Hunter so he can find his father, a man who abandoned him to pursue a life of adventure. But it's not that simple: only one in one hundred thousand can pass the Hunter Exam, and that is just the first obstacle on his journey. During the Hunter Exam, Gon befriends many other potential Hunters, such as the mysterious Killua; the revenge-driven Kurapika; and Leorio, who aims to become a doctor. There's a world of adventure and peril awaiting, and those who embrace it with open arms can become the greatest Hunters of them all!
+
              </p>
             
             </div>

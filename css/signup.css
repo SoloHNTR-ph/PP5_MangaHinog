@@ -100,7 +100,24 @@ hr {
 }
 .button a:hover {
   background: #3ba626;
+
+  
 }
+
+.error-messages {
+  color: red;
+  margin-bottom: 15px;
+}
+
+.error-messages ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.error-messages li {
+  margin-bottom: 5px;
+}
+
 @media (max-width: 900px) {
   .facebook-page {
     flex-direction: column;

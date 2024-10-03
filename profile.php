@@ -31,7 +31,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['action']) && $_POST['a
         $file_ext = strtolower(end($file_ext));
 
         if (in_array($file_ext, $allowed_ext)) {
-            if ($file_size <= 1048576) { // 1MB limit
+            if ($file_size <= 1048576) { 
                 if (move_uploaded_file($file_tmp, $target_dir)) {
                     $sql = "UPDATE users SET profile_picture = '$file_name' WHERE username = '$username'";
                     if ($conn->query($sql) === TRUE) {

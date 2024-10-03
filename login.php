@@ -16,7 +16,7 @@
         <div class="login-page flex">
           <div class="Text-Log">
               <h1 class="title">
-                  <img src="manga.svg" alt="Icon" width="600" height="300" />
+                  <img src="./assets/trace.svg" alt="Icon" width="600" height="300" />
               </h1>
               <p>Discover the latest and manga</p>
               <p>Your gateway to endless stories.</p>
